@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+logs/
+slurm_logs/
+results/
+data/
+checkpoints/
+*.pt
+*.pth
+*.npz
+*.npy
